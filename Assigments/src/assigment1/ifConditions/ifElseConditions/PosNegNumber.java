@@ -1,4 +1,4 @@
-package assigment1.ifElseConditions;
+package assigment1.ifConditions.ifElseConditions;
 
 public class PosNegNumber {
 

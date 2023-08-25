@@ -1,4 +1,4 @@
-package assigment1.arithmeticOperations;
+package assigment1.ifConditions.arithmeticOperations;
 
 public class ArithmeticOperations {
     public static void main(String[] args) {
