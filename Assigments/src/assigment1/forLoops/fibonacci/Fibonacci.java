@@ -1,4 +1,4 @@
-package assigment1.fibonacci;
+package assigment1.forLoops.fibonacci;
 
 public class Fibonacci {
     public static void main(String[] args) {

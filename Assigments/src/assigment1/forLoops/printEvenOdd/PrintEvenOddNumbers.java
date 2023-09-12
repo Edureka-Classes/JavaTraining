@@ -1,7 +1,5 @@
 package assigment1.forLoops.printEvenOdd;
 
-import java.util.Arrays;
-
 public class PrintEvenOddNumbers {
     public static void main(String[] args) {
 

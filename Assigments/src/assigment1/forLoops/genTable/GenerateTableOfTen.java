@@ -1,4 +1,4 @@
-package assigment1.genTable;
+package assigment1.forLoops.genTable;
 
 public class GenerateTableOfTen {
     public static void main(String[] args) {
