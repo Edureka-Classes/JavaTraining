@@ -1,0 +1,22 @@
+
+ˆ
+java:S1192"kDefine a constant instead of duplicating this literal "==========================================" 6 times.(Î»ë•8œû÷Ð¨1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÓ¦Öþÿÿÿÿ8žû÷Ð¨1
+F	java:S106
+"+Replace this use of System.out by a logger.(¿žˆ8±û÷Ð¨1
+G	java:S106"+Replace this use of System.out by a logger.(— ŒÈ8±û÷Ð¨1
+L	java:S106"+Replace this use of System.out by a logger.(ïš×êûÿÿÿÿ8²û÷Ð¨1
+G	java:S106"+Replace this use of System.out by a logger.(Î»ë•8²û÷Ð¨1
+L	java:S106"+Replace this use of System.out by a logger.(²ÃÊêøÿÿÿÿ8²û÷Ð¨1
+G	java:S106"+Replace this use of System.out by a logger.(Î»ë•8²û÷Ð¨1
+G	java:S106"+Replace this use of System.out by a logger.(ú½Ë‡8²û÷Ð¨1
+G	java:S106"+Replace this use of System.out by a logger.(Î»ë•8³û÷Ð¨1
+L	java:S106"+Replace this use of System.out by a logger.(ÜÕËÉþÿÿÿÿ8³û÷Ð¨1
+G	java:S106"+Replace this use of System.out by a logger.(Î»ë•8³û÷Ð¨1
+L	java:S106""+Replace this use of System.out by a logger.(¢é®½üÿÿÿÿ8³û÷Ð¨1
+G	java:S106$"+Replace this use of System.out by a logger.(Î»ë•8³û÷Ð¨1
+s
+java:S3457&"Q%n should be used in place of \n to produce the platform-specific line separator.(·óˆÙüÿÿÿÿ8´û÷Ð¨1
+L	java:S106&"+Replace this use of System.out by a logger.(·óˆÙüÿÿÿÿ8´û÷Ð¨1
+G	java:S106'"+Replace this use of System.out by a logger.(Î»ë•8´û÷Ð¨1
+F	java:S106*"+Replace this use of System.out by a logger.(–¥ìC8´û÷Ð¨1

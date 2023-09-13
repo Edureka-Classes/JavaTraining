@@ -1,4 +1,4 @@
-package assigment1.whileLoops.evenOdds;
+package assigment1.whileLoops;
 
 public class EvenOddsNumber {
     public static void main(String[] args) {
