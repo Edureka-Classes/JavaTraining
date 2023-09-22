@@ -1,0 +1,39 @@
+
+d
+java:S1192
+"GDefine a constant instead of duplicating this literal "\t\t\t" 5 times.(ς©¨Ί8…να¬©1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ρζΆ’ώÿÿÿÿ8†να¬©1
+L
+java:S1197"*Move the array designators [] to the type.(Ξ‚ςΖώÿÿÿÿ8να¬©1
+L
+java:S1197"*Move the array designators [] to the type.(Ξ‚ςΖώÿÿÿÿ8να¬©1
+G	java:S106"+Replace this use of System.out by a logger.(΄ΌΟ©8να¬©1
+G	java:S106
+"+Replace this use of System.out by a logger.(ς©¨Ί8‘να¬©1
+G
+java:S1197"*Move the array designators [] to the type.(›ψ8‘να¬©1
+G
+java:S1197"*Move the array designators [] to the type.(›ψ8‘να¬©1
+G
+java:S1197"*Move the array designators [] to the type.(›ψ8‘να¬©1
+L	java:S106"+Replace this use of System.out by a logger.(‘χ¨ϋώÿÿÿÿ8‘να¬©1
+G	java:S106"+Replace this use of System.out by a logger.(Ψ‰–8’να¬©1
+L
+java:S1197"*Move the array designators [] to the type.(ΧΖΚÿÿÿÿÿ8’να¬©1
+L
+java:S1197"*Move the array designators [] to the type.(ΧΖΚÿÿÿÿÿ8’να¬©1
+L
+java:S1197"*Move the array designators [] to the type.(ΧΖΚÿÿÿÿÿ8’να¬©1
+L	java:S106"+Replace this use of System.out by a logger.(‘χ¨ϋώÿÿÿÿ8“να¬©1
+G	java:S106"+Replace this use of System.out by a logger.(²·έ•8“να¬©1
+G
+java:S1197""*Move the array designators [] to the type.(½Θ©›8“να¬©1
+G
+java:S1197#"*Move the array designators [] to the type.(ΉΞψγ8”να¬©1
+G
+java:S1197$"*Move the array designators [] to the type.(λΫπΰ8”να¬©1
+L	java:S106)"+Replace this use of System.out by a logger.(ÿ°½ϊÿÿÿÿ8–να¬©1
+L	java:S1060"+Replace this use of System.out by a logger.(ªΣΌαώÿÿÿÿ8—να¬©1
+L	java:S1063"+Replace this use of System.out by a logger.(ªΣΌαώÿÿÿÿ8—να¬©1
+L	java:S1066"+Replace this use of System.out by a logger.(ªΣΌαώÿÿÿÿ8—να¬©1
+G	java:S1067"+Replace this use of System.out by a logger.(―ª€8¥χƒ­©1

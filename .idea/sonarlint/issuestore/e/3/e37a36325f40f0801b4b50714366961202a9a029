@@ -1,0 +1,5 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’Þ£ô8ì¼¦‚©1
+G	java:S106"+Replace this use of System.out by a logger.(Ææ Ï8ò¼¦‚©1
+e
+java:S1128"CRemove this unused import 'java.util.function.DoubleToIntFunction'.(å¯ßÍþÿÿÿÿ8ò¼¦‚©1

@@ -1,0 +1,26 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßØ¼´8Â¾ï«©1
+L
+java:S1197"*Move the array designators [] to the type.(§“ŠÅşÿÿÿÿ8Ê¾ï«©1
+L
+java:S1197"*Move the array designators [] to the type.(§“ŠÅşÿÿÿÿ8Ê¾ï«©1
+L
+java:S1197"*Move the array designators [] to the type.(§“ŠÅşÿÿÿÿ8Ê¾ï«©1
+L	java:S106
+"+Replace this use of System.out by a logger.(‘÷¨ûşÿÿÿÿ8Ê¾ï«©1
+L	java:S106"+Replace this use of System.out by a logger.(®¡ÏÅúÿÿÿÿ8Ë¾ï«©1
+G
+java:S1197"*Move the array designators [] to the type.(¦—8Ë¾ï«©1
+G
+java:S1197"*Move the array designators [] to the type.(¦—8Ë¾ï«©1
+G	java:S106"+Replace this use of System.out by a logger.(†Ë¦8Ì¾ï«©1
+G	java:S106"+Replace this use of System.out by a logger.(íæî­8Ì¾ï«©1
+L
+java:S1197"*Move the array designators [] to the type.(Ö¡‹¾øÿÿÿÿ8Í¾ï«©1
+L
+java:S1197"*Move the array designators [] to the type.(Áµâóûÿÿÿÿ8Í¾ï«©1
+G
+java:S1197 "*Move the array designators [] to the type.(°û¶å8Í¾ï«©1
+L	java:S106%"+Replace this use of System.out by a logger.(ÿ°½úÿÿÿÿ8Ï¾ï«©1
+L	java:S106,"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ğ¾ï«©1
+L	java:S106/"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ğ¾ï«©1

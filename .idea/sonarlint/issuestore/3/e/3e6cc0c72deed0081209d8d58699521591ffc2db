@@ -1,0 +1,12 @@
+
+e
+java:S1192"ODefine a constant instead of duplicating this literal " | capacity = " 3 times.(œÕÑı
+_
+java:S1192"IDefine a constant instead of duplicating this literal "| size= " 3 times.(œÕÑı
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìŠ·š
+u
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+@	java:S106"+Replace this use of System.out by a logger.(œÕÑı
+@	java:S106"+Replace this use of System.out by a logger.(œÕÑı
+@	java:S106"+Replace this use of System.out by a logger.(œÕÑı
+E	java:S106"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ

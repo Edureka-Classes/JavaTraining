@@ -1,0 +1,10 @@
+
+]
+java:S2259"@A "NullPointerException" could be thrown; "t1" is nullable here.(ô…ìí8’ÓŠ¡«1
+u	java:S116"YRename this field "Account_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î®¤Ê8º…‰¡«1
+s	java:S116"WRename this field "Account_Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡±Ûƒ8º…‰¡«1
+X	java:S125"<This block of commented-out lines of code should be removed.(šßÙî8½…‰¡«1
+X	java:S125"<This block of commented-out lines of code should be removed.(³ßÂÔ8¶¨‰¡«1
+L	java:S106"+Replace this use of System.out by a logger.( ÙÇºùÿÿÿÿ8¿…‰¡«1
+L	java:S106"+Replace this use of System.out by a logger.(þÎæ‚ùÿÿÿÿ8¿…‰¡«1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÖòÖîþÿÿÿÿ8¿…‰¡«1
