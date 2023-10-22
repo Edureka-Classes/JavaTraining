@@ -1,0 +1,5 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åÖ‡¤8ü²Ÿ“¬1
+A
+java:S1659"$Declare "breath" on a separate line.(å¿¢õ8€³Ÿ“¬1
+L	java:S106"+Replace this use of System.out by a logger.(èÿşúÿÿÿÿ8„³Ÿ“¬1

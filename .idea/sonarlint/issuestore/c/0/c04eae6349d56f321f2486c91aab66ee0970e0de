@@ -1,0 +1,16 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–ÝŒ²þÿÿÿÿ8Ã±íè«1
+<
+java:S1659"Declare "b" on a separate line.(·¹ä°8É±íè«1
+L	java:S106
+"+Replace this use of System.out by a logger.(ôôÿ‘ûÿÿÿÿ8Ë±íè«1
+@
+java:S2387"#"a" is the name of a field in "A1".(×Ôò’8Ë±íè«1
+@
+java:S2387"#"b" is the name of a field in "A1".(×Ôò’8Ë±íè«1
+<
+java:S1659"Declare "b" on a separate line.(×Ôò’8Ì±íè«1
+G	java:S106"+Replace this use of System.out by a logger.(µŒå¡8Î±íè«1
+G	java:S106"+Replace this use of System.out by a logger.(üˆÜä8ÚÇíè«1
+Q
+java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š8ÚÇíè«1

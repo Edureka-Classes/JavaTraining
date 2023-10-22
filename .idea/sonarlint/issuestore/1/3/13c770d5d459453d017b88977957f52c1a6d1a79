@@ -1,0 +1,5 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åÖ‡¤8şÒ“¬1
+F
+java:S1659"$Declare "height" on a separate line.(ÈÒˆãÿÿÿÿÿ8‘şÒ“¬1
+G	java:S106"+Replace this use of System.out by a logger.(üœ²˜8”şÒ“¬1
