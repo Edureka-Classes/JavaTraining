@@ -1,3 +1,5 @@
+package day1;
+
 public class IntegerRanges {
     public static void main(String[] args){
         System.out.println("min value of byte =  " +Byte.MIN_VALUE);
