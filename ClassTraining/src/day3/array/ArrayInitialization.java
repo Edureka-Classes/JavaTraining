@@ -1,4 +1,4 @@
-package day2.co.edureka.jave.array;
+package day3.oops.array;
 
 import java.util.Arrays;
 
