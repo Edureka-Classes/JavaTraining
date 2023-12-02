@@ -1,0 +1,6 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇÙ§©şÿÿÿÿ8Ë£‚À1
+Y
+java:S1854"7Remove this useless assignment to local variable "req".(ÕÅÉıÿÿÿÿ8©Ë£‚À1
+{
+java:S2142+"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8²Ë£‚À1

@@ -1,0 +1,7 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üž¸»úÿÿÿÿ8àø¢î»1
+j
+java:S2095	"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ÿ­…ˆýÿÿÿÿ8î¶¦î»1
+X	java:S125"<This block of commented-out lines of code should be removed.(€àÒŠ8»§¯î»1
+O
+java:S6126"2Replace this String concatenation with Text block.(éíÆ8äø¢î»1

@@ -1,0 +1,10 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±”Õäıÿÿÿÿ8ˆÿäùÀ1
+l
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‰ƒğ“8íÜşşÁ1
+Y
+java:S1854"7Remove this useless assignment to local variable "req".(ÕÅÉıÿÿÿÿ8¤ÿäùÀ1
+W
+java:S1854"5Remove this useless assignment to local variable "n".(ïÊâğşÿÿÿÿ8¥ÿäùÀ1
+H
+java:S1481"&Remove this unused "n" local variable.(ïÊâğşÿÿÿÿ8¬ÿäùÀ1
