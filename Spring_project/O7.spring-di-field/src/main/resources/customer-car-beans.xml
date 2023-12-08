@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns="http://www.springframework.org/schema/beans"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+                           http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+    <!-- Dependency Injection Using field () >>>  RECOMMENDED-->
+    <context:annotation-config/>
+
+    <bean id="jeep" class="co.edureka.beans.Car">
+        <property name="model" value="Jeep"/>
+        <property name="cost" value="6700.96"/>
+    </bean>
+
+    <bean id="Buhari" class="co.edureka.beans.Customer">
+        <property name="customerName" value="Buhari Maiwada"/>
+    </bean>
+
+</beans>
