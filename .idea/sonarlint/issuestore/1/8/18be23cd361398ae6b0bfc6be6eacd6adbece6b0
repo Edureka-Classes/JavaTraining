@@ -1,0 +1,5 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΈφίΏ8δώΙ1
+]	java:S125"<This block of commented-out lines of code should be removed.(Κ§Ιϊÿÿÿÿ8ιώΙ1
+t
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(—Ι›–ώÿÿÿÿ8κώΙ1

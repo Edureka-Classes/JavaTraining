@@ -1,0 +1,18 @@
+
+i
+java:S1192"GDefine a constant instead of duplicating this literal "Sum = " 5 times.(‰¦Œ§þÿÿÿÿ8Ö´¬áÇ1
+E
+java:S1604"(Make this anonymous inner class a lambda(Û¬²½8¥„®áÇ1
+{
+java:S1488	"YImmediately return this expression instead of assigning it to the temporary variable "s".(…çº¦øÿÿÿÿ8×´¬áÇ1
+{
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "s".(…çº¦øÿÿÿÿ8×´¬áÇ1
+{
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "s".(…çº¦øÿÿÿÿ8×´¬áÇ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×Á¨Ûþÿÿÿÿ8Ø´¬áÇ1
+O
+java:S1481"-Remove this unused "numsRef1" local variable.(ºþ­êûÿÿÿÿ8Þ´¬áÇ1
+O
+java:S1481"-Remove this unused "numsRef2" local variable.(°„ÑÌýÿÿÿÿ8Þ´¬áÇ1
+p
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(±¯‰”8ß´¬áÇ1

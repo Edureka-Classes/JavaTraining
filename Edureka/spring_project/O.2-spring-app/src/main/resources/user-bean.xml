@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+                           http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--    &lt;!&ndash; value as attribute (Rocommended Best Option) Eager Loading Scope = Singleton Pattern-->
+<!--    <bean id="user1" class="co.edureka.beans.User">-->
+<!--        <property  name="firstName" value="Buhari"/>-->
+<!--        <property  name="lastName" value="Maiwada"/>-->
+<!--    </bean>-->
+
+<!--    &lt;!&ndash; value as attribute (Rocommended Best Option) Lazy Loading Scope = Singleton Pattern&ndash;&gt;-->
+<!--    <bean id="user1" class="co.edureka.beans.User" lazy-init="true">-->
+<!--        <property  name="firstName" value="Fatima"/>-->
+<!--        <property  name="lastName" value="Maiwada"/>-->
+<!--    </bean>-->
+
+    <!-- value as attribute (Rocommended Best Option) Lazy Loading Scope = Prototype Pattern-->
+    <bean id="user1" class="co.edureka.beans.User" lazy-init="true" scope="prototype">
+        <property  name="firstName" value="Fatima"/>
+        <property  name="lastName" value="Maiwada"/>
+    </bean>
+
+    <!-- Using constructor -->
+    <bean name="user2" class="co.edureka.beans.User">
+        <constructor-arg value="Aisha"></constructor-arg>
+        <constructor-arg value="Buhari"></constructor-arg>
+    </bean>
+
+</beans>

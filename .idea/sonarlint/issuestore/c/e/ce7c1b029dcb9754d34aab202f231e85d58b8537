@@ -1,0 +1,10 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(àùÃŞÿÿÿÿÿ8¥ŸüÉ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸öß¿8¦ŸüÉ1
+t
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(ÁŠŠ¾ÿÿÿÿÿ8­ŸüÉ1
+b
+java:S1612"@Replace this lambda with method reference 'Collection::isEmpty'.(àùÃŞÿÿÿÿÿ8±ŸüÉ1
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8²ŸüÉ1

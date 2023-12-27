@@ -1,0 +1,40 @@
+<hibernate-configuration xmlns="http://www.hibernate.org/xsd/orm/cfg">
+    <session-factory>
+
+        <!-- Database Configuration Settings -->
+        <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+        <property name="connection.url">jdbc:mysql://localhost:3306/db_edureka</property>
+        <property name="connection.username">root</property>
+        <property name="connection.password">adminroot</property>
+
+        <!-- Hibernate Property -->
+        <property name="dialect">org.hibernate.dialect.MySQL5Dialect</property>
+        <property name="show_sql">true</property>
+
+            <!-- Enabling EHCache-->
+        <property name="hibernate.cache.use_second_level_cache">true</property>
+        <property name="cache.provider_class">org.hibernate.cache.EhCacheProvider</property>
+        <property name="cache.region.factory_class">org.hibernate.cache.ehcache.internal.EhcacheRegionFactory</property>
+
+        <!-- "hbm2ddl.auto" will create table if none exist, but we can use "hbm2ddl.create" to create table everytime we run the app-->
+        <property name="hbm2ddl.auto">update</property>
+
+
+        <!-- Mapping Resources -->
+
+            <!--for One to Many -->
+        <mapping class="co.edureka.entity.HQL_ONE2MANYMAPPING.Faculty" />
+        <mapping class="co.edureka.entity.HQL_ONE2MANYMAPPING.Batch" />
+
+            <!--for One to One -->
+        <mapping class="co.edureka.entity.HQL_ONE2ONEMAPPING.Employee" />
+        <mapping class="co.edureka.entity.HQL_ONE2ONEMAPPING.Address" />
+
+            <!--for product -->
+        <mapping class="co.edureka.entity.HQL_PRODUCT.Product" />
+
+            <!--for student -->
+        <mapping resource="student.hbm.xml"/>
+
+    </session-factory>
+</hibernate-configuration>

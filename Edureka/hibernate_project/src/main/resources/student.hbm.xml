@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<hibernate-mapping>
+    <class name="co.edureka.entity.Student" table="student">
+            <!-- Using Cache-->
+        <cache usage="read-only" />
+
+        <id name="studentId" column="studid">
+            <!-- Manually generate ID-->
+            <!-- <generator class="assigned"/>-->
+
+            <!-- Auto generate ID-->
+            <generator class="increment"/>
+
+        </id>
+        <property name="studentName" column="sname" />
+        <property name="studentEmail" column="email" />
+    </class>
+</hibernate-mapping>

@@ -1,0 +1,7 @@
+Library - collection of Books (bookId, bookTitle) - model
+
+enter a book Id & bookTitle
+    -- create book object
+    -- add the book object to library (Collection)
+
+do you want to add more books? [Y/N]

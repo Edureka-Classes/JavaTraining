@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+                           http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- Dependency Injection Using Setter() >>> NOT RECOMMENDED-->
+    <bean id="bmw" class="co.edureka.beans.Car">
+        <property  name="model" value="BMW"/>
+        <property  name="cost" value="4000.95"/>
+    </bean>
+
+    <bean id="Buhari" class="co.edureka.beans.Customer">
+        <property name="customerName" value="Buhari Maiwada" />
+        <!--<property name="car" ref="bmw" />-->
+        <property name="car" ref="audi" />
+    </bean>
+
+    <!-- Can inject different object (audi) without modifying the class-->
+    <bean id="audi" class="co.edureka.beans.Car">
+        <property  name="model" value="Audi"/>
+        <property  name="cost" value="3500.95"/>
+    </bean>
+
+</beans>
